@@ -320,4 +320,3 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9t \
 	treble-overlay-xiaomi-redmis2 \
 	treble-overlay-realme-c21y \
-	
