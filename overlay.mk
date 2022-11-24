@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-asus-rogphone \
-	treble-overlay-realme-c21y \
 	treble-overlay-asus-zenfone5 \
 	treble-overlay-asus-zenfone5-10 \
 	treble-overlay-asus-zenfone5z \
@@ -155,6 +154,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-realme-8-5g-systemui \
 	treble-overlay-realme-c2 \
 	treble-overlay-realme-c3 \
+	treble-overlay-realme-c21y \
 	treble-overlay-realme-gt2pro \
 	treble-overlay-realme-gt2pro-systemui \
 	treble-overlay-realme-gtmaster \
