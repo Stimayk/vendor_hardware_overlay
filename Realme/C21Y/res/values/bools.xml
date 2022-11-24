@@ -16,7 +16,7 @@
     <bool name="config_adaptive_sleep_available">false</bool>
     <bool name="config_add_mmi_cf_title_type">false</bool>
     <bool name="config_allow3rdPartyAppOnInternal">true</bool>
-    <bool name="config_allowAllRotations">false</bool>
+    <bool name="config_allowAllRotations">true</bool>
     <bool name="config_allowAnimationsInLowPowerMode">false</bool>
     <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
     <bool name="config_allowDisablingAssistDisclosure">true</bool>
@@ -64,7 +64,7 @@
     <bool name="config_bugReportHandlerEnabled">false</bool>
     <bool name="config_built_in_sip_phone">true</bool>
     <bool name="config_buttonTextAllCaps">true</bool>
-    <bool name="config_cameraDoubleTapPowerGestureEnabled">false</bool>
+    <bool name="config_cameraDoubleTapPowerGestureEnabled">true</bool>
     <bool name="config_cameraDoubleTapVolumeUpGestureEnabled">false</bool>
     <bool name="config_camera_sound_forced">false</bool>
     <bool name="config_carDockEnablesAccelerometer">true</bool>
@@ -115,7 +115,7 @@
     <bool name="config_eap_sim_based_auth_supported">true</bool>
     <bool name="config_enableActivityRecognitionHardwareOverlay">true</bool>
     <bool name="config_enableAppWidgetService">false</bool>
-    <bool name="config_enableAutoPowerModes">false</bool>
+    <bool name="config_enableAutoPowerModes">true</bool>
     <bool name="config_enableBurnInProtection">false</bool>
     <bool name="config_enableCarDockHomeLaunch">true</bool>
     <bool name="config_enableCredentialFactoryResetProtection">true</bool>
@@ -126,7 +126,7 @@
     <bool name="config_enableHapticTextHandle">false</bool>
     <bool name="config_enableLockBeforeUnlockScreen">false</bool>
     <bool name="config_enableLockScreenRotation">false</bool>
-    <bool name="config_enableMultiUserUI">false</bool>
+    <bool name="config_enableMultiUserUI">true</bool>
     <bool name="config_enableNetworkLocationOverlay">true</bool>
     <bool name="config_enableNewAutoSelectNetworkUI">true</bool>
     <bool name="config_enableNightMode">true</bool>
@@ -265,7 +265,7 @@
     <bool name="config_useDefaultFocusHighlight">true</bool>
     <bool name="config_useDevInputEventForAudioJack">false</bool>
     <bool name="config_useFixedVolume">false</bool>
-    <bool name="config_useRoundIcon">false</bool>
+    <bool name="config_useRoundIcon">true</bool>
     <bool name="config_useSmsAppService">true</bool>
     <bool name="config_useSystemProvidedLauncherForSecondary">false</bool>
     <bool name="config_useVideoPauseWorkaround">false</bool>
