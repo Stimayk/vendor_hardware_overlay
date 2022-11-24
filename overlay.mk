@@ -154,7 +154,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-realme-8-5g-systemui \
 	treble-overlay-realme-c2 \
 	treble-overlay-realme-c3 \
-	treble-overlay-realme-c21y \
 	treble-overlay-realme-gt2pro \
 	treble-overlay-realme-gt2pro-systemui \
 	treble-overlay-realme-gtmaster \
@@ -168,6 +167,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-realme-q2-systemui \
 	treble-overlay-realme-q3 \
 	treble-overlay-realme-x2pro \
+	treble-overlay-realme-c21y \
 	treble-overlay-samsung-S10pq \
 	treble-overlay-samsung-S10q \
 	treble-overlay-samsung-S20fe \
