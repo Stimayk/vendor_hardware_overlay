@@ -27,7 +27,6 @@
         <item>470</item>
         <item>510</item>
     </array>
-    <array name="config_autoBrightnessKeyboardBacklightValues" />
     <array name="config_autoBrightnessLcdBacklightValues" />
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
